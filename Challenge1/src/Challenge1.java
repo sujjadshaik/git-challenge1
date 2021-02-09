@@ -4,7 +4,7 @@ public class Challenge1 {
 		System.out.println("Challenge 1");
 		//feature1 code 
 		System.out.println("Challenge 1");//this throw a conflict
-		//hello
+		//hi
 		
 	}
 
